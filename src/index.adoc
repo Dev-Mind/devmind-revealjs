@@ -1,0 +1,77 @@
+= Title Slide
+:source-highlighter: highlightjs
+:revealjs_theme: league
+:revealjs_progress: true
+:revealjs_slideNumber: true
+:revealjs_history: true
+:revealjs_customtheme: css/dm_league.css
+:revealjs_showNotes: true
+
+== Slide One
+
+* Foo
+* Bar
+* World
+
+[NOTE.speaker]
+--
+Actually things aren't that bad
+--
+
+== Slide Two
+
+Hello World - Good Bye Cruel World
+
+[NOTE.speaker]
+--
+Actually things aren't that bad
+--
+
+[background-color="#25b5f7"]
+== Slide Three
+
+Is very yellow
+
+[%notitle]
+== The Great Goat
+
+image::https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg[canvas,size=contain]
+
+
+[transition=zoom, %notitle]
+== Zoom zoom
+
+This slide will override the presentation transition and zoom!
+
+[transition-speed=fast, %notitle]
+== Speed
+
+Choose from three transition speeds: default, fast or slow!
+
+== Slide Four
+
+[%step]
+* this
+* is
+* revealed
+* gradually
+
+== Slide Five
+
+Uses highlighted code
+
+[source, python]
+----
+print "Hello World"
+----
+
+== Slide Six
+
+Top slide
+
+=== Slide Six.One
+
+This is a vertical subslide
+
+[state=dynamic]
+== Slide Seven js...

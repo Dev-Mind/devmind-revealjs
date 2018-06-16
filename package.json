@@ -1,0 +1,23 @@
+{
+  "name": "java-formation",
+  "version": "1.0.0",
+  "description": "Slides for Java Formation",
+  "main": "reveal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillaume EHRET <guillaume@dev-mind.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "asciidoctor-reveal.js": "^1.1.3",
+    "asciidoctor.js": "^1.5.7-beta.1",
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sequence": "^1.0.0",
+    "gulp-tap": "^1.0.1",
+    "map-stream": "^0.0.7",
+    "opal": "^0.6.4"
+  }
+}
