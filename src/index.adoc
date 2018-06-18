@@ -30,10 +30,10 @@ Actually things aren't that bad
 [background-color="#25b5f7"]
 == Slide Three
 
-Is very yellow
+Is very blue
 
 [%notitle]
-== The Great Goat
+== My great logo
 
 image::https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg[canvas,size=contain]
 
